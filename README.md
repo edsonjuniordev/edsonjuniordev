@@ -35,3 +35,5 @@ _💼 &nbsp; Currently i am Dev FullStack Jr at Badico Cloud Engineering_
 </div>
 
 ##### Hope to have contact with you!! 👋
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
