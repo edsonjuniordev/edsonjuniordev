@@ -1,7 +1,7 @@
 ## Hi, my name is Edson Júnior, Dev FullStack and passionate about technology!
- _🎓 &nbsp; Bachelor in Computer Science_
+ _🎓 &nbsp; Computer Network Technician and Bachelor in Computer Science_
 
-_💼 &nbsp; Currently Dev FullStack Jr at Badico Cloud Engineeringg_
+_💼 &nbsp; Currently i am Dev FullStack Jr at Badico Cloud Engineering_
 
 <hr>
 <div>
