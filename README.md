@@ -36,4 +36,4 @@ _💼 &nbsp; Currently i am Fullstack Engineer Junior at Badico Cloud Engineerin
 
 ##### Hope to have contact with you!! 👋
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edjunior0/edjunior0/blob/output/github-contribution-grid-snake.svg)
