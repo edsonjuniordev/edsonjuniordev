@@ -26,7 +26,7 @@ _💼 &nbsp; Currently i am Dev FullStack Jr at Badico Cloud Engineering_
   
 <br>
 <div>
-<a href="https://www.linkedin.com/in/edson-j%C3%BAnior-2874a0202/" target="_blank">
+<a href="https://www.linkedin.com/in/edjuni0r/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
 </a>
 <a href="https://www.instagram.com/ed.juni0r/" target="_blank">
