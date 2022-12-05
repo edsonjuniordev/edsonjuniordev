@@ -7,9 +7,9 @@ _💼 &nbsp; Currently i am Fullstack Engineer Junior at Badico Cloud Engineerin
 <div>
   
 <div align="center">
-  <a href="https://github.com/edjunior0">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edjunior0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edjunior0&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/edsonjuniordev">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edsonjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniordev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -42,4 +42,4 @@ _💼 &nbsp; Currently i am Fullstack Engineer Junior at Badico Cloud Engineerin
 
 ##### Hope to have contact with you!! 👋
  
-![Snake animation](https://github.com/edjunior0/edjunior0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edsonjuniordev/edsonjuniordev/blob/output/github-contribution-grid-snake.svg)
