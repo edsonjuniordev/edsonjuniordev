@@ -1,5 +1,8 @@
 name: dddd
-on: [push]
+on: 
+ push:
+   branches: ["zezin5555:main-1"]
+ 
 
 jobs:
   debug:
