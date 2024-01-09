@@ -1,7 +1,7 @@
-## Hi, my name is Edson Júnior, Dev FullStack and passionate about technology!
+## Hi, my name is Edson Júnior, Backend Engineer and passionate about technology!
  _🎓 &nbsp; Computer Network Technician and Bachelor in Computer Science_
 
-_💼 &nbsp; Currently i am Fullstack Engineer Junior_
+_💼 &nbsp; Currently i am Backend Engineer_
 
 <hr>
 <div>
